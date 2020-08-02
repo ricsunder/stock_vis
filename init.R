@@ -1,4 +1,4 @@
-my_packages <- 'tidyquant'
+my_packages <- c('tidyquant', 'ggthemes', 'tidyverse', 'scales')
 
 install_if_missing <- function(p) {
   
