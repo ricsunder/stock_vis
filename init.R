@@ -1,4 +1,4 @@
-my_packages <- 'quantmod'
+my_packages <- 'tidyquant'
 
 install_if_missing <- function(p) {
   
