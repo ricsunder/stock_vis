@@ -1,5 +1,7 @@
 library(shiny)
 library(tidyquant)
+library(tidyverse)
+library(ggthemes)
 
 shinyServer(
   
